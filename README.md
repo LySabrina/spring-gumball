@@ -1,4 +1,7 @@
-# spring-gumball ci/cd example
+# spring-gumball ci/cd 
+## PART 1
+Input the gradle.yml then make a change (such as comment on the read me) then look at the ACTION tab on GitHub.
+![](../Screenshots/Screen Shot 2022-11-27 at 11.24.44 PM.png)
 
 ### This example demonstrates the following two GitHub Workflows.
 
