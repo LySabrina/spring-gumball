@@ -4,8 +4,9 @@
 <img width="1680" alt="Screen Shot 2022-11-27 at 11 24 44 PM" src="https://user-images.githubusercontent.com/92494792/204367131-f024ca25-8d1b-4f93-9987-ccd9d56a1ff6.png">
 
 ## PART 2
-### Enable Container & Kube<img width="1680" alt="Screen Shot 2022-11-28 at 9 13 22 AM" src="https://user-images.githubusercontent.com/92494792/204367239-cc4e826e-4505-4228-82eb-23f3f4ce50a5.png">
-rnetes API
+### Enable Container & Kubernetes API
+<img width="1680" alt="Screen Shot 2022-11-28 at 9 13 22 AM" src="https://user-images.githubusercontent.com/92494792/204367239-cc4e826e-4505-4228-82eb-23f3f4ce50a5.png">
+
 
 ### Create Service account and grant permissions
 <img width="1680" alt="Screen Shot 2022-11-28 at 9 15 20 AM" src="https://user-images.githubusercontent.com/92494792/204367356-774bd0fc-91cb-46d3-b183-d737b4e0091b.png">
